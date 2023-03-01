@@ -1,0 +1,11 @@
+{
+  "Author": "Zaria V",
+  "Name": "Texas Holdem",
+  "Punchline": "Plugin to play texas hold''em",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "Texas Holdem",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Poker"
+  ]
+}
